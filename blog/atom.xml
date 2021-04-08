@@ -4,8 +4,8 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Hank Quinlan's Blog</title>
-	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
+	<title>Massachusetts Community Fridges Timeline</title>
+	<link href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4qpftbgNC782GTJj4xCpjoB7mAqQC7Ecw9rcrefDm8VHQt_inS9p7rGzCLMYRyJLXH9nTb8nr2G0H/pubhtml?gid=0&single=true" rel="self"/>
 	<link href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4qpftbgNC782GTJj4xCpjoB7mAqQC7Ecw9rcrefDm8VHQt_inS9p7rGzCLMYRyJLXH9nTb8nr2G0H/pubhtml?gid=0&single=true"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://hankquinlan.github.io/blog</id>
