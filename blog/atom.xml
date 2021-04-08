@@ -6,7 +6,7 @@ layout: feed
 
 	<title>Hank Quinlan's Blog</title>
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://hankquinlan.github.io/blog"/>
+	<link href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4qpftbgNC782GTJj4xCpjoB7mAqQC7Ecw9rcrefDm8VHQt_inS9p7rGzCLMYRyJLXH9nTb8nr2G0H/pubhtml?gid=0&single=true"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
